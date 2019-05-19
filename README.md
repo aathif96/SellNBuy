@@ -1,4 +1,4 @@
-# SellNBuy
+# SellNBuy PAF - N3B - G6
 SellNBy Ecommerce App using REST API using Spring Boot
 This is project how to implement rest api to spring boot web application, if you see pom.xml it will show you that it's using spring boot 1.3.0 starter web, using thymeleaf as template engine and Java SDK.
 
